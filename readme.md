@@ -1,27 +1,21 @@
-## Laravel PHP Framework
+## iEdu - O Sistema de Gestão Académica da iDealSolutions
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+[![Latest Stable Version](https://poser.pugx.org/idealsolutions/iedusoft/v/stable)](https://packagist.org/packages/idealsolutions/iedu)
+[![Total Downloads](https://poser.pugx.org/idealsolutions/iedusoft/downloads)](https://packagist.org/packages/idealsolutions/iedu) 
+[![Latest Unstable Version](https://poser.pugx.org/idealsolutions/iedusoft/v/unstable)](https://packagist.org/packages/idealsolutions/iedu) 
+[![License](https://poser.pugx.org/idealsolutions/iedusoft/license)](https://packagist.org/packages/idealsolutions/iedu)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
+iEdu é um Sistema de Gestão Académica voltada para a administração de Instituições Académicas.
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+## Documentaçao Oficial
 
-## Official Documentation
+Documentação oficial pode ser encontrada em  [Docs](http://maizergomes.github.io/iEdu/docs/master).
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+## Contribuição
 
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+## Vulnerabilidades
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+### Licença
 
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
